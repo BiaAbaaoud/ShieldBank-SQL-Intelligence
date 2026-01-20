@@ -58,7 +58,6 @@ Siga os passos abaixo para replicar a análise em sua máquina local:
    ```bash
    git clone [https://github.com/BiaAbaaoud/ShieldBank-SQL-Intelligence.git](https://github.com/BiaAbaaoud/ShieldBank-SQL-Intelligence.git)
    cd ShieldBank-SQL-Intelligence
-
 ---
 
 **Desenvolvedora:** BiaAbaaoud
