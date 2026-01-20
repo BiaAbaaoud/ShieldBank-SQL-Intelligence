@@ -50,4 +50,15 @@ Sim. Como a estrutura é baseada em SQL, bastaria trocar o motor SQLite por um P
 
 ---
 
+## 🚀 Como Rodar o Projeto
+
+Siga os passos abaixo para replicar a análise em sua máquina local:
+
+1. **Clonar o Repositório:**
+   ```bash
+   git clone [https://github.com/BiaAbaaoud/ShieldBank-SQL-Intelligence.git](https://github.com/BiaAbaaoud/ShieldBank-SQL-Intelligence.git)
+   cd ShieldBank-SQL-Intelligence
+
+---
+
 **Desenvolvedora:** BiaAbaaoud
